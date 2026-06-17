@@ -167,6 +167,16 @@ If you find this repository useful, please give us stars and use the following B
 
 
 ```text
+@misc{guan2026pictureaccumulativefingerprintmapping,
+      title={Toward the Whole Picture: Accumulative Fingerprint Mapping and Reconstruction for Small-Area Mobile Sensors}, 
+      author={Xiongjun Guan and Jianjiang Feng and Jie Zhou},
+      year={2026},
+      eprint={2606.15574},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.15574}, 
+}
+
 @ARTICLE{feng2013fingerprint,
   author={Feng, Jianjiang and Jain, Anil K.},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
